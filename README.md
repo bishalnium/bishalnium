@@ -30,12 +30,3 @@ TypeScript · Rust (Soroban) · Next.js · Midnight Compact (ZK) · Solidity
 | **[Privatepass](https://github.com/bishalnium/Privatepass)** | Midnight Network · Compact ZK · React · TS | Zero-knowledge eligibility & identity verification layer (`ProofPass`) proving attributes without exposing PII on-chain. |
 | **[CeloCred](https://github.com/bishalnium/CeloCred)** | Celo · Solidity · Hardhat · Flutter · Node.js | Decentralized merchant credit scoring (300–850) & P2P microlending platform with automated off-chain oracle. |
 | **[Aether-workflow](https://github.com/bishalnium/Aether-workflow)** | TypeScript · React Flow · Express · Prisma · BullMQ | Visual AI workflow automation platform with webhook/cron triggers, RAG loops, and multi-LLM agent routing. |
-
----
-
-### GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bishalnium&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishalnium&layout=compact&langs_count=6&hide_border=true&theme=transparent" alt="Top Languages" height="165" />
-</div>
