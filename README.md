@@ -1,71 +1,41 @@
-<h1 align="center">Hi 👋, I'm Bishal Pritam Chowdhury</h1>
-<h3 align="center">🚀 AI Enthusiast | Web Developer | Flutter Learner | Hackathon Explorer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=500&lines=Welcome+to+my+GitHub!;Let%E2%80%99s+build+cool+things+together+%F0%9F%92%BB" alt="Typing SVG" />
-</p>
+# Bishal (`@bishalnium`)
 
----
+**Stellar / Soroban (Rust) & Zero-Knowledge Full-Stack Engineer**
 
-### 🧠 About Me:
-- 🎓 BTech CSE (AIML)
-- 🧠 Working on an **AI-powered mental health chatbot**
-- 💻 Exploring **Flutter**, **React**, **Node.js**, and **MongoDB**
-- 🧪 Love combining AI, UI/UX, and web tech
+TypeScript · Rust (Soroban) · Next.js · Midnight Compact (ZK) · Solidity
+
+[![GitHub](https://img.shields.io/badge/GitHub-bishalnium-181717?style=flat-square&logo=github)](https://github.com/bishalnium)
+[![Drips Wave](https://img.shields.io/badge/Stellar_Wave-Active_Contributor-000000?style=flat-square&logo=stellar)](https://www.drips.network/wave/stellar)
+
+</div>
 
 ---
 
-### 🛠️ Technologies & Tools:
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-</p>
+### Core Engineering Focus
+- **Stellar & Soroban:** Rust smart contracts (`soroban-sdk`), SEP-41/SAC token flows, DEX pathfinding, Freighter & Stellar Wallets Kit, `@stellar/stellar-sdk`, Vitest & Playwright E2E.
+- **Zero-Knowledge & Privacy:** Midnight Network `Compact` zk-SNARK circuits (`MaanakSetu`, `Privatepass`, `MidHealth`, `Midnight-ZKVault`).
+- **Full-Stack & AI Systems:** TypeScript, Next.js (App Router), React 19, Node.js/Express, Prisma/PostgreSQL, Solidity/Hardhat, and Flutter.
 
 ---
 
-### 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GangserX&show_icons=true&theme=github_dark&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GangserX&layout=compact&theme=github_dark" width="48%"/>
-</p>
+### Featured Blockchain & Systems Projects
+
+| Project | Ecosystem / Stack | What It Does |
+| :--- | :--- | :--- |
+| **[OrbitPay](https://github.com/bishalnium/OrbitPay)** | Stellar · Rust (Soroban) · Next.js 15 · TS · `@stellar/stellar-sdk` | Non-custodial cross-border remittance app with DEX FX routing & time-locked `RemittanceVault` Soroban escrow (USDC/EURC/XLM). |
+| **[Lumenpulse](https://github.com/bishalnium/Lumenpulse)** | Stellar · Rust (Soroban) · React · Vite | Decentralized governance feedback, on-chain reputation, and XLM micro-tipping protocol (`FeedbackVault` on Stellar Testnet). |
+| **[MaanakSetu](https://github.com/bishalnium/MaanakSetu)** | Midnight Network · Compact ZK · React · TS | Privacy-preserving B2B supplier credential & procurement qualification network using client-side ZK proofs. |
+| **[Privatepass](https://github.com/bishalnium/Privatepass)** | Midnight Network · Compact ZK · React · TS | Zero-knowledge eligibility & identity verification layer (`ProofPass`) proving attributes without exposing PII on-chain. |
+| **[CeloCred](https://github.com/bishalnium/CeloCred)** | Celo · Solidity · Hardhat · Flutter · Node.js | Decentralized merchant credit scoring (300–850) & P2P microlending platform with automated off-chain oracle. |
+| **[Aether-workflow](https://github.com/bishalnium/Aether-workflow)** | TypeScript · React Flow · Express · Prisma · BullMQ | Visual AI workflow automation platform with webhook/cron triggers, RAG loops, and multi-LLM agent routing. |
 
 ---
 
-### 🔥 GitHub Streak:
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=GangserX&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
+### GitHub Activity
 
----
-
-### 📬 Contact Me:
-<p>
-  <a href="https://www.linkedin.com/in/bishal-pritam-chowdhury-14592630a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:bishalpvtxd@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  🧠 *“Code is like humor. When you have to explain it, it’s bad.”*
-</p>
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...MindmuseAI(AI poerwerd mental health chatbot)
-- 🌱 I’m currently learning ...To train AI models and FInetune the pre-trained models
--
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bishalnium&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishalnium&layout=compact&langs_count=6&hide_border=true&theme=transparent" alt="Top Languages" height="165" />
+</div>
